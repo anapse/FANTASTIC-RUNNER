@@ -1,0 +1,6 @@
+{
+  "name": "Fantastic Runner",
+  "description": "Futuristic 3D Depth Endless Runner and Arcade Shooter",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
